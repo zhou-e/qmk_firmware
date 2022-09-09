@@ -19,5 +19,6 @@ RGBLIGHT_ENABLE = no       # Enable WS2812 RGB underlight.
 OLED_ENABLE = yes
 OLED_DRIVER = SSD1306    # OLED display
 SPLIT_KEYBOARD = yes
+DYNAMIC_TAPPING_TERM_ENABLE = yes     # Change wait time for tap/ hold
 
 DEFAULT_FOLDER = lily58/rev1
